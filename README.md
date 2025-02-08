@@ -43,3 +43,4 @@
 :---: | :----: | :----:
 1차시 | 자바 컬렉션 |   [자바 컬렉션 Q&A](https://github.com/minmunlee/interview-study/blob/main/1%EC%B0%A8%EC%8B%9C_%EC%9E%90%EB%B0%94%EC%BB%AC%EB%A0%89%EC%85%98.md)
 2차시 | 트랜잭션 |   [트랜잭션 Q&A](https://github.com/minmunlee/interview-study/blob/main/2%EC%B0%A8%EC%8B%9C_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+3차시 | 자바 |   [자바 Q&A](https://github.com/minmunlee/interview-study/blob/main/3%EC%B0%A8%EC%8B%9C_%EC%9E%90%EB%B0%94.md)
