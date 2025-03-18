@@ -47,3 +47,4 @@
 4차시 | 자바 |   [자바 Q&A](https://github.com/minmunlee/interview-study/blob/main/4%EC%B0%A8%EC%8B%9C_%EC%9E%90%EB%B0%94.md)
 5차시 | spring |   [spring Q&A](https://github.com/minmunlee/interview-study/blob/main/5%EC%B0%A8%EC%8B%9C_Spring.md)
 6차시 | project(ToLevelUp) |   [project Q&A](https://github.com/minmunlee/interview-study/blob/main/6%EC%B0%A8%EC%8B%9C_project(tolevelup).md)
+7차시 | RESTful API |   [RESTful API Q&A](https://github.com/minmunlee/interview-study/blob/main/7%EC%B0%A8%EC%8B%9C_RESTful%20API.md)
