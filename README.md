@@ -55,3 +55,4 @@
 12차시 | 자료구조 |   [자료구조 Q&A](https://github.com/minmunlee/interview-study/blob/main/12%EC%B0%A8%EC%8B%9C_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 13차시 | spring |   [spring Q&A](https://github.com/minmunlee/interview-study/blob/main/13%EC%B0%A8%EC%8B%9C_Spring.md)
 14차시 | 동시성 |   [동시성 Q&A](https://github.com/minmunlee/interview-study/blob/main/14%EC%B0%A8%EC%8B%9C_%EB%8F%99%EC%8B%9C%EC%84%B1)
+15차시 | JPA |   [JPA Q&A](https://github.com/minmunlee/interview-study/blob/main/15%EC%B0%A8%EC%8B%9C_JPA.md)
