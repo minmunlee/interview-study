@@ -57,3 +57,4 @@
 14차시 | 동시성 |   [동시성 Q&A](https://github.com/minmunlee/interview-study/blob/main/14%EC%B0%A8%EC%8B%9C_%EB%8F%99%EC%8B%9C%EC%84%B1)
 15차시 | JPA |   [JPA Q&A](https://github.com/minmunlee/interview-study/blob/main/15%EC%B0%A8%EC%8B%9C_JPA.md)
 16차시 | MSA |   [MSA Q&A](https://github.com/minmunlee/interview-study/blob/main/16%EC%B0%A8%EC%8B%9C_MSA.md)
+16차시 | OOP |   [OOP Q&A](https://github.com/minmunlee/interview-study/blob/main/17%EC%B0%A8%EC%8B%9C_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
