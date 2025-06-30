@@ -59,4 +59,6 @@
 16차시 | MSA |   [MSA Q&A](https://github.com/minmunlee/interview-study/blob/main/16%EC%B0%A8%EC%8B%9C_MSA.md)
 17차시 | OOP |   [OOP Q&A](https://github.com/minmunlee/interview-study/blob/main/17%EC%B0%A8%EC%8B%9C_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 18차시 | 스레드 |   [Tread Q&A](https://github.com/minmunlee/interview-study/blob/main/18%EC%B0%A8%EC%8B%9C_%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.md)
+19차시 | 시큐리티 |   [Security Q&A](https://github.com/minmunlee/interview-study/blob/main/19%EC%B0%A8%EC%8B%9C_%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.md)
+
 
