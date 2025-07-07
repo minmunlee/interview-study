@@ -60,5 +60,7 @@
 17차시 | OOP |   [OOP Q&A](https://github.com/minmunlee/interview-study/blob/main/17%EC%B0%A8%EC%8B%9C_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 18차시 | 스레드 |   [Tread Q&A](https://github.com/minmunlee/interview-study/blob/main/18%EC%B0%A8%EC%8B%9C_%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.md)
 19차시 | 시큐리티 |   [Security Q&A](https://github.com/minmunlee/interview-study/blob/main/19%EC%B0%A8%EC%8B%9C_%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.md)
+20차시 | 스프링 데이터 접근기술 |   [스프링 데이터 접근기술 Q&A](https://github.com/minmunlee/interview-study/blob/main/20%EC%B0%A8%EC%8B%9C_%EC%8A%A4%ED%94%84%EB%A7%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%91%EA%B7%BC%EA%B8%B0%EC%88%A0.md)
+
 
 
