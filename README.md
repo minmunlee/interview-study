@@ -65,6 +65,8 @@
 22차시 | 자바 메모리 |   [자바 메모리 Q&A](https://github.com/minmunlee/interview-study/blob/main/22%EC%B0%A8%EC%8B%9C_%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 23차시 | 테이블 연관 관계 매핑 |   [테이블 연관 관계 매핑 Q&A](https://github.com/minmunlee/interview-study/blob/main/23%EC%B0%A8%EC%8B%9C_%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%97%B0%EA%B4%80%20%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)
 24차시 | 데브옵스 |   [데브옵스 Q&A](https://github.com/minmunlee/interview-study/blob/main/24%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4.md)
+25차시 | 네크워크 |   [네트워크 Q&A](https://github.com/minmunlee/interview-study/blob/main/25%EC%B0%A8%EC%8B%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+
 
 
 
