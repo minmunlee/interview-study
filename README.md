@@ -69,4 +69,5 @@
 26차시 | 모니터링 |   [모니터링 Q&A](https://github.com/minmunlee/interview-study/blob/main/26%EC%B0%A8%EC%8B%9C_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.md)
 27차시 | 트래픽 |   [트래픽 Q&A](https://github.com/minmunlee/interview-study/blob/main/27%EC%B0%A8%EC%8B%9C_%ED%8A%B8%EB%9E%98%ED%94%BD.md)
 28차시 | 보안 |   [보안 Q&A](https://github.com/minmunlee/interview-study/blob/main/28%EC%B0%A8%EC%8B%9C_%EB%B3%B4%EC%95%88.md)
+29차시 | 소프트웨어아키텍처 패턴 |   [소프트웨어아키텍처 패턴 Q&A](https://github.com/minmunlee/interview-study/blob/main/29%EC%B0%A8%EC%8B%9C_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%8C%A8%ED%84%B4.md)
 
