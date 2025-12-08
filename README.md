@@ -72,4 +72,5 @@
 29차시 | 소프트웨어아키텍처 패턴 |   [소프트웨어아키텍처 패턴 Q&A](https://github.com/minmunlee/interview-study/blob/main/29%EC%B0%A8%EC%8B%9C_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%8C%A8%ED%84%B4.md)
 30차시 | 자바 III |   [자바 III Q&A](https://github.com/minmunlee/interview-study/blob/main/30%EC%B0%A8%EC%8B%9C_%EC%9E%90%EB%B0%94%20III.md)
 31차시 | 메모리 |   [메모리 Q&A](https://github.com/minmunlee/interview-study/blob/main/31%EC%B0%A8%EC%8B%9C_%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+32차시 | SQL II |   [SQL II Q&A](https://github.com/minmunlee/interview-study/blob/main/32%EC%B0%A8%EC%8B%9C_SQL%20II.md)
 
