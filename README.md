@@ -76,4 +76,6 @@
 33차시 | Spring III |   [Spring III Q&A](https://github.com/minmunlee/interview-study/blob/main/33%EC%B0%A8%EC%8B%9C_Spring%20III.md)
 34차시 | AOP |   [AOP Q&A](https://github.com/minmunlee/interview-study/blob/main/34%EC%B0%A8%EC%8B%9C_AOP.md)
 35차시 | Spring Batch |   [Spring Batch Q&A](https://github.com/minmunlee/interview-study/blob/main/35%EC%B0%A8%EC%8B%9C_Spring%20Batch.md)
+36차시 | 디자인패턴 |   [디자인패턴 Q&A](https://github.com/minmunlee/interview-study/blob/main/36%EC%B0%A8%EC%8B%9C_%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
+
 
