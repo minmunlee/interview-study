@@ -78,5 +78,6 @@
 35차시 | Spring Batch |   [Spring Batch Q&A](https://github.com/minmunlee/interview-study/blob/main/35%EC%B0%A8%EC%8B%9C_Spring%20Batch.md)
 36차시 | 디자인패턴 |   [디자인패턴 Q&A](https://github.com/minmunlee/interview-study/blob/main/36%EC%B0%A8%EC%8B%9C_%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
 37차시 | 동기, 비동기 |   [동기, 비동기 Q&A](https://github.com/minmunlee/interview-study/blob/main/37%EC%B0%A8%EC%8B%9C_%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+38차시 | 웹 통신 |   [웹 통신 Q&A](https://github.com/minmunlee/interview-study/blob/main/38%EC%B0%A8%EC%8B%9C_%EC%9B%B9%20%ED%86%B5%EC%8B%A0.md)
 
 
